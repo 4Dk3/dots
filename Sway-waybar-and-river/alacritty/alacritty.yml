@@ -1,11 +1,11 @@
 window:
-  opacity: 0.7
+  opacity: 1
 scrolling:
  history: 50000
 # Font configuration
 font:
   normal:
-    family: MesloLGL Nerd Font
+    family: FiraCode Nerd Font
     style: Regular
   
   size: 14.0
